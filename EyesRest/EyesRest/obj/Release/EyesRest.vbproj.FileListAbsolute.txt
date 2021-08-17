@@ -1,0 +1,17 @@
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\bin\Release\EyesRest.exe.config
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\bin\Release\EyesRest.exe
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\bin\Release\EyesRest.pdb
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\bin\Release\EyesRest.xml
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\MainWindow.g.vb
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\Application.g.vb
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest_MarkupCompile.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest_MarkupCompile.lref
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\MainWindow.baml
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.g.resources
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.Resources.resources
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.vbproj.GenerateResource.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.vbproj.CoreCompileInputs.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.exe
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.xml
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\EyesRest.pdb
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\EyesRest\EyesRest\obj\Release\Application.baml
